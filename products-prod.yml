@@ -1,5 +1,5 @@
 
 products:
   message: "people of power"
-  profile: "prod"
-  service: "Carts-ms"
+  profile: "prod_work"
+  service: "Product-ms"
