@@ -1,5 +1,5 @@
 
 products:
   message: "This is a config message"
-  profile: "production-instru"
-  service: "Product-ms"
+  profile: "production-instrumentation"
+  service: "Product-ms service"
