@@ -1,5 +1,5 @@
 
 products:
-  message: "im prod"
-  profile: "prod"
+  message: "This is a config message"
+  profile: "production-instru"
   service: "Product-ms"
