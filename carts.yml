@@ -1,5 +1,5 @@
 
 products:
-  message: "AD is checking changes"
-  profile: "default-cart"
+  message: "AD is checking changes, bloom"
+  profile: "default-cart, bloom"
   service: "Carts-ms"
